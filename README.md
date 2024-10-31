@@ -17,7 +17,7 @@ etc.. can register an institute in lefty and lefty connects them to people who c
 ## DarkMode
 
 <p float="left">
-  <img src="assets/Screenshots/1.jpg" width="200" />
+  <img src="Lefty-SRK/assets/Screenshots/1.jpg" width="200" />
   <img src="assets/Screenshots/9.jpg" width="200" />
   <img src="assets/Screenshots/10.jpg" width="200" />
   <img src="assets/Screenshots/11.jpg" width="200" />
