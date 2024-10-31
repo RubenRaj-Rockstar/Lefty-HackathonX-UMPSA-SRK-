@@ -18,20 +18,20 @@ etc.. can register an institute in lefty and lefty connects them to people who c
 
 <p float="left">
   <img src="Lefty-SRK/assets/Screenshots/1.jpg" width="200" />
-  <img src="assets/Screenshots/9.jpg" width="200" />
-  <img src="assets/Screenshots/10.jpg" width="200" />
-  <img src="assets/Screenshots/11.jpg" width="200" />
-  <img src="assets/Screenshots/12.jpg" width="200" />
+  <img src="Lefty-SRK/assets/Screenshots/9.jpg" width="200" />
+  <img src="Lefty-SRK/assets/Screenshots/10.jpg" width="200" />
+  <img src="Lefty-SRK/assets/Screenshots/11.jpg" width="200" />
+  <img src="Lefty-SRK/assets/Screenshots/12.jpg" width="200" />
 </p>
 
 ## LightMode
 
 <p float="left">
-  <img src="assets/Screenshots/13.jpg" width="200" />
-  <img src="assets/Screenshots/17.jpg" width="200" />
-  <img src="assets/Screenshots/18.jpg" width="200" />
-  <img src="assets/Screenshots/22.jpg" width="200" />
-  <img src="assets/Screenshots/23.jpg" width="200" />
+  <img src="Lefty-SRK/assets/Screenshots/13.jpg" width="200" />
+  <img src="Lefty-SRK/assets/Screenshots/17.jpg" width="200" />
+  <img src="Lefty-SRK/assets/Screenshots/18.jpg" width="200" />
+  <img src="Lefty-SRK/assets/Screenshots/22.jpg" width="200" />
+  <img src="Lefty-SRK/assets/Screenshots/23.jpg" width="200" />
   
 </p>
 
